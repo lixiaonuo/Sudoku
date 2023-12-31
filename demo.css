@@ -79,9 +79,9 @@ a:hover
     width: 426px;
     margin-left: 40px;
     float: left;
-    box-shadow: 0px 0px 30px #680301;
-    -moz-box-shadow: 0px 0px 30px #680301;
-    -webkit-box-shadow: 0 0 30px #680301;
+    box-shadow: 0px 0px 30px #ff8280;
+    -moz-box-shadow: 0px 0px 30px #ff8280;
+    -webkit-box-shadow: 0 0 30px #ff8280;
 }
 
 #Column2
@@ -94,7 +94,7 @@ a:hover
 #Footer
 {
     margin-top: 600px;
-    color: #910502;
+    color: #fd8481;
 }
 
 #FooterDetails
@@ -111,7 +111,7 @@ a:hover
 
 td.boardCellGroupA,td.boardCellGroupB
 {
-    background-color: #940302;
+    background-color: #ff8280;
 }
 
 td.boardCellGroupA td.boardCell
